@@ -3,7 +3,6 @@
 ### Sou formado em Gestão da Tecnologia da Informação 💻
 ### Pós-graduando em Engenharia de Software 📚
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-line-wordmark.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
 
