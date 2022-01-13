@@ -5,8 +5,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" width="40" height="40"/>
 
-
-<img src="https://i2.paste.pics/FMNK9.png" width="250" height="250"/>
+<img src="https://i2.paste.pics/FMNK9.png" width="300" height="300"/>
 
 ### Contatos:
 
