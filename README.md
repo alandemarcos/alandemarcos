@@ -1,4 +1,11 @@
-### Hi there 👋
+### Olá Devs, meu nome é Demarcos 🧒
+### Bem vindo ao meu perfil GitHub 👋
+### Sou formado em Gestão da Tecnologia da Informação 💻
+### Pós-graduando em Engenharia de Software 📚
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-line-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+
 
 <!--
 **alandemarcos/alandemarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
