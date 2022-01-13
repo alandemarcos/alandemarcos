@@ -1,7 +1,7 @@
-### Olá Devs, meu nome é Demarcos 🧒
-### Bem vindo ao meu perfil GitHub 👋
-### Sou formado em Gestão da Tecnologia da Informação 💻
-### Pós-graduando em Engenharia de Software 📚
+### 🧒 Olá Devs, meu nome é Demarcos 
+### 👋 Bem vindo ao meu perfil GitHub 
+### 💻 Sou formado em Gestão da Tecnologia da Informação 
+### 📚 Pós-graduando em Engenharia de Software 📚
 
 <img src="https://i2.paste.pics/FMNK9.png" width="400" height="300"/>
 
