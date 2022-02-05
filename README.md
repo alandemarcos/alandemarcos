@@ -1,7 +1,7 @@
-### 🧒 Olá Devs, meu nome é Demarcos 
-### 👋 Bem vindo ao meu perfil GitHub 
-### 💻 Sou formado em Gestão da Tecnologia da Informação 
-### 📚 Pós-graduando em Engenharia de Software
+### Olá Devs, meu nome é Demarcos 🖐️
+### Bem vindo ao meu perfil GitHub 👋
+### Sou formado em Gestão da Tecnologia da Informação 💻
+### Pós-graduando em Engenharia de Software 📚
 <img src="https://i2.paste.pics/FMNK9.png" width="400" height="300"/>
 
 ### Contatos:
@@ -15,9 +15,9 @@
     </a>
     </div>
     
-### Tecnologias:
+### Tecnologias que utilizo:
 
-<div>
+<div style="display: inline_block">
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
