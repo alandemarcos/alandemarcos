@@ -1,8 +1,8 @@
 
-- 🖐️ Olá, meu nome é Alan Demarcos
-- 💻 Graduado em Gestão da Tecnologia da Informação
-- 💻 MBA em Engenharia de Software
-- 👨‍💻 Desenvolvedor Frontend
+- 🖐️ Olá, meu nome é Alan Demarcos.
+- 💻 Graduado em Gestão da Tecnologia da Informação.
+- 💻 MBA em Engenharia de Software.
+- 👨‍💻 Desenvolvedor Web.
 
 ### Contatos:
 
