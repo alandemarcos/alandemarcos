@@ -35,7 +35,7 @@
 </div>
 
 
-    
+   
   
   ![Snake animation](https://github.com/alandemarcos/alandemarcos/blob/output/github-contribution-grid-snake.svg)
   
