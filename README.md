@@ -30,12 +30,6 @@
 
    
  
-<div>
-<a href="https://github.com/alandemarcos">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alandemarcos&show_icons=true&locale=en&layout=full&theme=tokyonight&langs_count=8" alt="alandemarcos" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alandemarcos&show_icons=true&locale=en&theme=tokyonight" alt="alandemarcos" /
-</div>
 
 
 ------------
