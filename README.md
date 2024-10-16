@@ -1,6 +1,7 @@
 
 - 🖐️ Olá, meu nome é Alan Demarcos.
 - 💻 Graduado em Gestão da Tecnologia da Informação.
+- 💻 Pós-Graduado em Engenharia de Redes.
 - 💻 MBA em Engenharia de Software.
 - 👨‍💻 Desenvolvedor Web.
 
