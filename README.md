@@ -3,7 +3,7 @@
 - 💻 Graduado em Gestão da Tecnologia da Informação.
 - 💻 Pós-Graduado em Engenharia de Redes.
 - 💻 MBA em Engenharia de Software.
-- 👨‍💻 Desenvolvedor Web.
+- 👨‍💻 Migrando para CyberSecurity.
 
 ### Contatos:
 
