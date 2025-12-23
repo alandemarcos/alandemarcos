@@ -1,9 +1,10 @@
 
 - 🖐️ Olá, meu nome é Alan Demarcos.
+- 👨‍💻 Engenharia da Computação (Em andamento)
 - 💻 Graduado em Gestão da Tecnologia da Informação.
 - 💻 Pós-Graduado em Engenharia de Redes.
 - 💻 MBA em Engenharia de Software.
-- 👨‍💻 Migrando para CyberSecurity.
+
 
 ### Contatos:
 
